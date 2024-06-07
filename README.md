@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jordynns
 - 👀 I’m interested in: Games and Stuff
 - 🌱 I’m currently learning: Python
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: Nothing
 
 <!---
