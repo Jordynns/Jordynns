@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordyn</h1>
-<h3 align="center">A student, learning Java from Scotland, United Kingdom</h3>
+<h3 align="center">A Computing/CompSci student learning Java from Scotland, United Kingdom</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
