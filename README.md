@@ -30,22 +30,6 @@ I am currently developing a fully virtualized home network environment as part o
 
 ---
 
-### 🛠️ Hardware & Lab Specs
-*Developing on high-performance hardware to simulate enterprise loads:*
-- **CPU:** Intel i9-14900 (24 Cores / 32 Threads)
-- **RAM:** 128GB DDR4 @ 3600MHz
-- **OS:** Windows 11 / Ubuntu Server
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
